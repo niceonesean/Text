@@ -4,7 +4,6 @@ Created on Thu Mar 10 10:55:01 2022
 
 @author: User
 """
-pip install textblob
 from textblob import TextBlob
 
 from flask import Flask, request, render_template
